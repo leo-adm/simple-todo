@@ -9,6 +9,11 @@
       "id": 2,
       "todo": "Add TanStack Query package",
       "done": false
+    },
+    {
+      "todo": "Improve TanStack Query implementation",
+      "done": false,
+      "id": 3
     }
   ]
 }
